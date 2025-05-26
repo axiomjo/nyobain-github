@@ -6,3 +6,12 @@ trus, konekin ke repo di github
 misal  
 `git remote add origin https://github.com/axiomjo/Air_Quality_Datavizes_and_Dashboard.git`
 
+itu yg git. itu cuma version control(?). BLOM NYAMBUNG KE GITHUB Y :]]]]]]
+
+---
+perkara nyambungin ke github:
+
+KUDU SSH AUTHENTICATION DONG HAHAHAHHAHA
+[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent]
+
+why cant i know this earlier TvT
